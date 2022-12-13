@@ -1,0 +1,102 @@
+body {
+    font-family: "Roboto";
+}
+
+.cupones {
+    height: 180;
+    width: 278;
+    background-color: white;
+}
+
+/* background con el color verdoso ese */
+.cupon_background {
+    background-color: #28a745;
+}
+
+.nav-title {
+    color: white !important;
+    margin: 0px;
+    border-color: white !important;
+}
+
+.button-nav {
+    border-color: white;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.list-group-item {
+    color: #707070;
+}
+
+.desc {
+    font-size: 16px;
+}
+
+.direcc {
+    font-size: 13px;
+}
+
+.idirecc {
+    font-size: 10px;
+    letter-spacing: 5px;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-body {
+    height: 162px;
+    width: 278px;
+}
+
+.card-body * {
+    display: inline-block;
+}
+
+.precios {
+    text-align: right;
+}
+
+.precio,
+.oferta {
+    margin-bottom: 0;
+}
+
+.precio {
+    color: #707070;
+    font-size: 16px;
+}
+
+.oferta {
+    font-size: 20px;
+    color: #28a745;
+}
+
+.bg-green {
+    background-color: #28A745;
+}
+
+.footer-icon {
+    height: 24pt;
+}
+
+.tituloFoo {
+    font-size: 21px;
+}
+
+.d-grid {
+    text-align: center;
+}
+
+h5.card-title {
+    font-size: 20px;
+    color: #212529;
+}
+
+.card-text {
+    color: #707070;
+}
